@@ -31,14 +31,25 @@ body{
     
 }
 
+.content{
+    
+}
+
+.info1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
 .info1 button{
     padding: 8px;
     color: white;
     background-color: rgb(241, 105, 56);
 }
 
-.images1{
-height: 200px;
+.info1 img{
+    height: 400px;
 }
 
 
