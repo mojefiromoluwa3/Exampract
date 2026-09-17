@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   background-color: white; 
+   width: 100%;
+   padding: 20px auto;
+
+}
+
+.pre-order{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pre-order button{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.info{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info1{
+display: flex;
+}
