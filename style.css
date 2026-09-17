@@ -15,7 +15,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 25px;
+    margin-bottom: 35px;
 }
 
 .pre-order button{
@@ -28,12 +28,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    margin-bottom: 35px;
 }
 
-.content{
-    
-}
+
 
 .info1{
     display: flex;
@@ -57,4 +55,14 @@ body{
 display: flex;
 justify-content: space-between;
 
+}
+
+.info2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info2 img{
+    height: 300px;
 }
