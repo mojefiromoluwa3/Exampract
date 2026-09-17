@@ -11,6 +11,14 @@ body{
 
 }
 
+.content h1{
+    width: 40%;
+}
+
+.content p{
+    width: 50%;
+}
+
 .pre-order{
     display: flex;
     justify-content: space-between;
@@ -50,6 +58,14 @@ body{
     height: 400px;
 }
 
+.info2 h1{
+
+}
+
+
+span button{
+    background-color: aliceblue;
+}
 
 .info1{
 display: flex;
@@ -74,6 +90,11 @@ justify-content: space-between;
     justify-content: space-between;
     align-content: center;
     margin-bottom: 40px;
+}
+
+.footer-content img{
+    background-color: rgb(245, 107, 57);
+    
 }
 
 .foot{
