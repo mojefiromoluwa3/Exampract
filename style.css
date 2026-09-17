@@ -15,6 +15,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 25px;
 }
 
 .pre-order button{
@@ -22,14 +23,27 @@ body{
     border-radius: 5px;
 }
 
-
 .info{
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    
 }
+
+.info1 button{
+    padding: 8px;
+    color: white;
+    background-color: rgb(241, 105, 56);
+}
+
+.images1{
+height: 200px;
+}
+
 
 .info1{
 display: flex;
+justify-content: space-between;
+
 }
